@@ -62,10 +62,10 @@ li{
 }
 
 #profile-pic{
-    width: 250px;
-    height: 250px;
+    width: 210px;
+    height: 210px;
     object-fit: cover;
-    border-radius: 60%;
+    border-radius: 50%;
 }
 
 #email{
