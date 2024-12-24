@@ -36,7 +36,7 @@ li{
 }
 
 #container--main{
-    max-width: 700px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 1em;
 }
@@ -62,8 +62,8 @@ li{
 }
 
 #profile-pic{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
     border-radius: 60%;
 }
