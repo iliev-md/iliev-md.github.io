@@ -139,6 +139,12 @@ li{
     height: 1px;
 }
 
+.footer {
+    color: var(--light-gray);
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 1px;
+}
 
 @media(max-width:600px){
 
