@@ -1,6 +1,6 @@
 // Edit your ics sources here
 ics_sources = [
-    {url:'https://calendar.google.com/calendar/ical/ilievb.md%40gmail.com/public/basic.ics', title:'Iliev Work Calendar', event_properties:{color: 'SeaGreen'}}
+    {url:'https://cors-anywhere.herokuapp.com/https://calendar.google.com/calendar/ical/ilievb.md%40gmail.com/public/basic.ics', title:'Iliev Work Calendar', event_properties:{color: 'SeaGreen'}}
 ]
 
 
