@@ -29,10 +29,11 @@
                 center: '',
                 right: 'listDay,listWeek,listMonth'
                 },
+                plugins: [iCalendarPlugin],
                 events: {
                     url: 'https://ilievmd.net/Work.ics',
                     format: 'ics'
-  }
+                }
             });
 
             calendar.render();
